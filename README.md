@@ -3,7 +3,7 @@
 ## ToDo
 
 - Menu Screen
-  - Play, Multiplyaer, menu, exit
+  - Play, Multiplayer, menu, exit
 - Create player script
   - Players can collect cards and keeps track of win/loss
 - Gui shows five selected cards
