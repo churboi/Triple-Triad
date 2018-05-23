@@ -8,4 +8,5 @@ public class GameManager : MonoBehaviour {
 
     public Card[] hand;
 
+    public Inventory inv;
 }
